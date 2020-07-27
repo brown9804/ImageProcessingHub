@@ -146,7 +146,7 @@ def floodfill_inv(image,result_folder):
 	im_floodfill_inv = cv2.bitwise_not(image)
 	os_t = time.time()
 	cv2.imwrite(str(result_folder)+'Floodfilled_Inv%s.jpg'%os_t,im_floodfill_inv)
-	print('\n'+str(result_folder)+'Floodfilled_Inv%s.jpg'%os_t+ '--> DONE')
+	print('\n'+result_folder+'Floodfilled_Inv%s.jpg'%os_t+ '--> DONE')
 	return im_floodfill_inv
 
 #######################################################
@@ -164,7 +164,7 @@ def foreground(image0, image1,result_folder):
 #******************************************************
 ######	Directory with images verify
 img_dir = '/Users/belindabrown/Desktop/PreAnalysis_Img_Recognition/ImgtoAnalyse'
-result_folder_path = '/Users/belindabrown/Desktop/PreAnalysis_Img_Recognition/Results'
+result_folder_path = '/Users/belindabrown/Desktop/PreAnalysis_Img_Recognition/Results/'
 data_path = os.path.join(img_dir,'*.jpg')
 files = glob.glob(data_path)
 print("Amount of images that is going to be analized:			", len(files))
