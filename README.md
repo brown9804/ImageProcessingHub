@@ -38,7 +38,7 @@ It allows to analyze the different present characteristics of each image. Conten
 11. Foreground filter
 
 
-## Functioning
+## How to
 
 ### Run the program
 
