@@ -16,8 +16,8 @@ This repository hosts a collection of different algorithms for image analysis.
 
 ## Content 
 
-1. [Filter Spectrum](./FilterSpectrum/README.md): This algorithm allows analyzing the different present characteristics of each image.
-2. [Image Vectorizer](./ImageVectorizeKMeansCluster/README.md): This algorithm provides a Python script to convert an input image into a vectorized image using KMeans clustering.
+1. [Filter Spectrum](./FilterSpectrum/README.md): `python` This algorithm allows analyzing the different present characteristics of each image.
+2. [Image Vectorizer](./ImageVectorizeKMeansCluster/README.md): `python` This algorithm provides a Python script to convert an input image into a vectorized image using KMeans clustering.
 
 ## Prerequisites
 
