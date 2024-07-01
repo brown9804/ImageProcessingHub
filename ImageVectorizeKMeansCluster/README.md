@@ -1,4 +1,4 @@
-# Image Processing Hub
+# Image Vectorizer
 
 Costa Rica
 
@@ -12,21 +12,28 @@ Belinda Brown, belindabrownr04@gmail.com
 
 ---------------
 
-This repository hosts a collection of different algorithms for image analysis. 
+This project provides a Python script to convert an input image into a vectorized image using KMeans clustering.
 
-## Content 
 
-1. [Filter Spectrum](./FilterSpectrum/README.md): This algorithm allows analyzing the different present characteristics of each image.
-2. [Image Vectorizer](./ImageVectorizeKMeansCluster/README.md): This algorithm provides a Python script to convert an input image into a vectorized image using KMeans clustering.
+## Getting Started
 
-## Prerequisites
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
 
 - Python 3.6 or higher
 - pip
 
-## Usage
+### Usage
 
-The usage depends on the specific algorithm you want to run. Generally, you would place your input image in the project directory and run the corresponding script.
+1. Place your input image in the project directory and name it `input.png`.
+2. Run the `main.py` script:
+
+```python 
+python main.py
+```
+
+3. The vectorized image will be saved as `vector_output.png` in the project directory. SVG and PDF versions of the image will also be created.
 
 ## Built With
 

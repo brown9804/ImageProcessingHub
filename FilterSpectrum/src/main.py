@@ -163,8 +163,8 @@ def foreground(image0, image1,result_folder):
 #              MAIN
 #******************************************************
 ######	Directory with images verify
-img_dir = '/Users/belindabrown/Desktop/PreAnalysis_Img_Recognition/ImgtoAnalyse'
-result_folder_path = '/Users/belindabrown/Desktop/PreAnalysis_Img_Recognition/Results/'
+img_dir = './input_imgs/'
+result_folder_path = './outputs/'
 data_path = os.path.join(img_dir,'*.jpg')
 files = glob.glob(data_path)
 print("Amount of images that is going to be analized:			", len(files))
