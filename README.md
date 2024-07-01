@@ -12,7 +12,7 @@ Belinda Brown, belindabrownr04@gmail.com
 
 ---------------
 
-This repository hosts a collection of different algorithms for image analysis. 
+This repository hosts a collection of different algorithms for image analysis, edition, etc
 
 ## Content 
 
