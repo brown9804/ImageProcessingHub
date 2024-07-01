@@ -18,6 +18,8 @@ This repository hosts a collection of different algorithms for image analysis, e
 
 1. `python` [Filter Spectrum](./FilterSpectrum/README.md): This algorithm allows analyzing the different present characteristics of each image.
 2. `python` [Image Vectorizer](./ImageVectorizeKMeansCluster/README.md): This algorithm provides a Python script to convert an input image into a vectorized image using KMeans clustering.
+3. `python` [High Resolution Image Mosaic](./HighResolutionImgMosaic/README.md): This program creates a high resolution mosaic of an input image with images from a directory.
+4. `python` [Image Mosaic](./HighResolutionImgMosaic/README.md): This program creates a mosaic of an input image with images from a directory.
 
 ## Prerequisites
 
