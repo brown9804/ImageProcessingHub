@@ -15,9 +15,8 @@ To run the program, you should have the following Python libraries:
 - numpy
 
 It is done in the following way:
-
--If your computer works with Windows operating system, run the following in the command line or console: python get-pip.py to install pip pip3 install opencv-python pip3 install matplotlib pip3 install numpy-python
--If your computer works with Mac or Linux operating system, run the following in the command line or console: curl -O https://bootstrap.pypa.io/get-pip.py sudo python get-pip.py sudo pip3 install opencv-python sudo pip3 install matplotlib sudo pip3 install numpy
+- If your computer works with Windows operating system, run the following in the command line or console: python get-pip.py to install pip pip3 install opencv-python pip3 install matplotlib pip3 install numpy-python
+- If your computer works with Mac or Linux operating system, run the following in the command line or console: curl -O https://bootstrap.pypa.io/get-pip.py sudo python get-pip.py sudo pip3 install opencv-python sudo pip3 install matplotlib sudo pip3 install numpy
 
 To run the program, you should execute the following command:
 
