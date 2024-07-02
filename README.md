@@ -20,3 +20,4 @@ This repository hosts a collection of different algorithms for image analysis, e
 2. `python` [Image Vectorizer](./2_ImageVectorizeKMeansCluster/README.md): This algorithm provides a Python script to convert an input image into a vectorized image using KMeans clustering.
 3. `python` [High Resolution Image Mosaic](./3_HighResolutionImgMosaic/README.md): This program creates a high resolution mosaic of an input image with images from a directory.
 4. `python` [Image Mosaic](./4_ImgMosaic/README.md): This program creates a mosaic of an input image with images from a directory.
+5. `C` [Image Mean Variance Calculator](./5_ImageMeanVarianceCalculator/): This project is designed to calculate the mean and variance of images. It's useful for image processing tasks where understanding the statistical properties of the image dataset is important.
