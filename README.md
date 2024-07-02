@@ -20,20 +20,3 @@ This repository hosts a collection of different algorithms for image analysis, e
 2. `python` [Image Vectorizer](./2_ImageVectorizeKMeansCluster/README.md): This algorithm provides a Python script to convert an input image into a vectorized image using KMeans clustering.
 3. `python` [High Resolution Image Mosaic](./3_HighResolutionImgMosaic/README.md): This program creates a high resolution mosaic of an input image with images from a directory.
 4. `python` [Image Mosaic](./4_ImgMosaic/README.md): This program creates a mosaic of an input image with images from a directory.
-
-## Prerequisites
-
-- Python 3.6 or higher
-- pip
-
-## Usage
-
-The usage depends on the specific algorithm you want to run. Generally, you would place your input image in the project directory and run the corresponding script.
-
-## Built With
-
-- OpenCV - Used for image processing
-- NumPy - Used for numerical computations
-- Pillow - Used for handling images
-- scikit-learn - Used for KMeans clustering
-- Matplotlib - Used for creating the output image
